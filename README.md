@@ -23,5 +23,5 @@ I am continuously learning tools like **Jira**, **Postman**, and **Trello** to i
 
 
 
-📁 [View CV (PDF)](CV-AdrianPasniciuc.pdf)
+📁 [View CV (PDF)]([View CV (PDF)](https://github.com/PasniciucAdrian/CV-AdrianPasniciuc/blob/main/Adrian-Pasniciuc-CV.pdf))
 
